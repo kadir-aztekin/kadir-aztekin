@@ -1,10 +1,5 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/fatihkayan20?style=social)](https://github.com/fatihkayan20?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/fatihkayan20?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=fatihkayan20.visitor-badge)](https://GitHub.com/fatihkayan20/StrapDown.js/stargazers/)
-
-
-# Hi 👋
+# Hi ??
 I'm Kadir! I am improving myself on projects related to web and mobile.
 
 Contact with me via these platforms! 
@@ -39,5 +34,4 @@ Here are some ideas to get you started:
 - ?? I’m currently working on ... I am studying at Necmettin Erbakan  University
 - ?? I’m currently learning ... C#
 - ?? How to reach me: ... [Instagram](https://www.instagram.com/aztekadir/)
-
 
