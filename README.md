@@ -18,13 +18,13 @@ Contact with me via these platforms!
 ## ?? GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihkayan20&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=KADİRAZTEKİN&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADİRAZTEKİN&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   <a href="https://github.com/kadir-aztekin">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=KADİRAZTEKİN&repo=CarRent&show_icons=true&theme=tokyonight"</img>
   </a>
   <a href="https://github.com/kadir-aztekin">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=fatihkayan20&show_icons=true&theme=tokyonight"</img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=KADİRAZTEKİN&repo=fatihkayan20&show_icons=true&theme=tokyonight"</img>
   </a>
 </p>
 
