@@ -1,5 +1,6 @@
 
-# Hi ??
+# Hi 👋
+
 I'm Kadir! I am improving myself on projects related to web and mobile.
 
 Contact with me via these platforms! 
