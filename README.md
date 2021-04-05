@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning ... C#,JAVA,MSSQL,ANGULAR,REACT,HTML,CSS,JAVASCRİPT
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/aztekadir/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir-aztekin&show_icons=true&locale=en" alt="msankarali" /></p>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-aztekin&layout=compact" alt="shely"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir-aztekin&show_icons=true&locale=en" alt="msankarali" /></p>
