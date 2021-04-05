@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-aztekin&layout=compact" alt="shely"/></p>
-<center><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir-aztekin&show_icons=true&locale=en" alt="kadir-aztekin" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=kadir-aztekin&show_icons=true&locale=en" alt="kadir-aztekin" /></p>
