@@ -30,7 +30,7 @@ Contact with me via these platforms!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... I am studying at Necmettin Erbakan  University
-- 🔭 I’m currently learning ... C#
+- 🔭 I’m currently learning ... C#,JAVA,MSSQL,ANGULAR,REACT,HTML,CSS,JAVASCRİPT
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/aztekadir/)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-aztekin&layout=compact" alt="shely"/></p>
