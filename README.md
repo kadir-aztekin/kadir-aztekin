@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning ... C#
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/aztekadir/)
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-aztekin&layout=compact" alt="shely"/></p>
