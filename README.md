@@ -7,7 +7,7 @@ Contact with me via these platforms!
 
   <a href="https://www.linkedin.com/in/kadir-aztekin-a3178b1a9/" target="_blank" rel="nofollow"><img alt="Kadir's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aztekadir@gmail.com" target="_blank" rel="nofollow"><img alt="Kadir's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.instagram.com/aztekadir/" target="_blank" rel="nofollow"><img alt="Kadir's İnstagram" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" /></a>
+    <a href="https://www.instagram.com/aztekadir/" target="_blank" rel="nofollow"><img alt="Kadir's İnstagram" <i class="fab fa-instagram"></i> /></a>
 
   
 ## 🛠 Technologies & Tools 
