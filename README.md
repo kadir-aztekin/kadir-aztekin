@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... I am studying at Necmettin Erbakan  University
 - 🔭 I’m currently learning ... C#,JAVA,MSSQL,ANGULAR,REACT,HTML,CSS,JAVASCRİPT
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/aztekadir/)
+- 
 [![Kadir's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-aztekin&theme=forest)](https://github.com/kadir-aztekin/github-readme-stats)<br/><br/>
 [![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadir-aztekin&theme=forest)](https://github.com/kadir-aztekin/github-readme-stats)<br/>
 
